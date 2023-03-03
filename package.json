@@ -1,0 +1,38 @@
+{
+  "name": "mutable-state",
+  "version": "1.1.0",
+  "description": "A tiny wrapper that let's you use `reactjs useState hook` like a mutable object",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamruhul/mutable-state.git"
+  },
+  "keywords": [
+    "reactjs",
+    "useState",
+    "mutable",
+    "immutable",
+    "state-management",
+    "react-state-management",
+    "wrapper",
+    "react-hooks",
+    "react-hooks-wrapper",
+    "mutable-state",
+    "mutable-react-state"
+  ],
+  "author": "@iamruhul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamruhul/mutable-state/issues"
+  },
+  "homepage": "https://github.com/iamruhul/mutable-state#readme",
+  "peerDependencies": {
+    "react": "^16.8.0-alpha.1"
+  },
+  "dependencies": {
+    "observable-slim": "0.1.5"
+  }
+}
